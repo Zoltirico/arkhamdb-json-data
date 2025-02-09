@@ -159,7 +159,7 @@
         "name": "Bestia Sotterranea",
         "text": "Cacciatore. Massiccio.\nLa Bestia Sotterranea riceve +3[per_investigator] salute.\nSe la Bestia Sotterranea è pronta e si trova nel luogo del Carrello da Miniera, il Carrello da Miniera non può muoversi.\n[action] Spendi 1[per_investigator] indizi: Esaurisci la Bestia Sotterranea. Non può essere ripristinata in questo round.",
         "flavor": "<b>Vittoria 2.</b>",
-        "traits": "Abominio. Mutato. Ilite."
+        "traits": "Abominio. Mutato. Elite."
     },
     {
         "code": "10518",
@@ -281,7 +281,7 @@
         "name": "Camera da Letto Vivente",
         "text": "Massiccio. Non può effettuare attacchi di opportunità. La Camera da Letto Vivente  riceve +2[per investigator] Salute.\n<b>Obbligo</b> - Quando questo nemico-luogo è aperto: Collocate 1 destino su di esso.",
         "flavor": "Questa volta c'è davvero un mostro sotto al letto.",
-        "traits": "Stanza. Mostro. Ilite."
+        "traits": "Stanza. Mostro. Elite."
     },
     {
         "code": "10533",
@@ -295,7 +295,7 @@
         "name": "Camera da Letto Vivente",
         "text": "Massiccio. Non può effettuare attacchi di opportunità. La Camera da Letto Vivente riceve +2[per investigator] Salute.\n<b>Obbligo</b> - Quando questo nemico-luogo è aperto: Esso attacca ogni investigatore in questo luogo.",
         "flavor": "Questa volta c'è davvero un mostro sotto al letto.",
-        "traits": "Stanza. Mostro. Ilite."
+        "traits": "Stanza. Mostro. Elite."
     },
     {
         "code": "10534",
@@ -309,7 +309,7 @@
         "name": "Camera da Letto Vivente",
         "text": "Massiccio. Non può effettuare attacchi di opportunità. La Camera da Letto Vivente riceve +2[per investigator] Salute.\n<b>Obbligo</b> - Quando questo nemico-luogo è aperto: Effettuate una prova di predazione.",
         "flavor": "Questa volta c'è davvero un mostro sotto al letto.",
-        "traits": "Stanza. Mostro. Ilite."
+        "traits": "Stanza. Mostro. Elite."
     },
     {
         "code": "10535",
@@ -323,7 +323,7 @@
         "name": "Camera da Letto Vivente",
         "text": "Massiccio. Non può effettuare attacchi di opportunità. La Camera da Letto Vivente riceve +2[per investigator] Salute.\n<b>Obbligo</b> - Quando questo nemico-luogo è aperto: Esso attacca ogni investigatore in questo luogo.",
         "flavor": "Questa volta c'è davvero un mostro sotto al letto.",
-        "traits": "Stanza. Mostro. Ilite."
+        "traits": "Stanza. Mostro. Elite."
     },
     {
         "code": "10536",
@@ -336,7 +336,7 @@
         "code": "10536b",
         "name": "Bagno Vivente",
         "text": "Massiccio. Non può effettuare attacchi di opportunità.\n<b>Obbligo</b> - Quando questo nemico-luogo è aperto, se ci sono 1 o più indizi su di esso: Esso attacca ogni investigatore in questo luogo.",
-        "traits": "Stanza. Mostro. Ilite."
+        "traits": "Stanza. Mostro. Elite."
     },
     {
         "code": "10537",
@@ -349,7 +349,7 @@
         "code": "10537b",
         "name": "Bagno Vivente",
         "text": "Massiccio. Non può effettuare attacchi di opportunità.\n<b>Obbligo</b> - Quando questo nemico-luogo è aperto, se ci sono 1 o più indizi su di esso: Esso attacca ogni investigatore in questo luogo.",
-        "traits": "Stanza. Mostro. Ilite."
+        "traits": "Stanza. Mostro. Elite."
     },
     {
         "code": "10538",
@@ -362,7 +362,7 @@
         "code": "10538b",
         "name": "Bagno Vivente",
         "text": "Massiccio. Non può effettuare attacchi di opportunità.\n<b>Obbligo</b> - Quando questo nemico-luogo è aperto: Quando questo nemico-luogo è aperto: Ogni investigatore in questo luogo scarta un ammontare di carte casuali dalla sua mano pari al numero di indizi su questo luogo.",
-        "traits": "Stanza. Mostro. Ilite."
+        "traits": "Stanza. Mostro. Elite."
     },
     {
         "code": "10539",
@@ -374,7 +374,7 @@
         "code": "10539b",
         "name": "Biblioteca Vivente",
         "text": "Massiccio. Non può effettuare attacchi di opportunità.\nLa Biblioteca Vivente riceve +1[per investigator] Salute.\n<b>Obbligo</b> - Quando questo nemico-luogo è aperto: Ogni investigatore in questo luogo e in ogni luogo collegato a questo perde 2 risorse.",
-        "traits": "Stanza. Mostro. Ilite."
+        "traits": "Stanza. Mostro. Elite."
     },
     {
         "code": "10540",
@@ -386,7 +386,7 @@
         "code": "10540b",
         "name": "Biblioteca Vivente",
         "text": "Massiccio. Non può effettuare attacchi di opportunità.\nLa Biblioteca Vivente riceve +1 de salud [per investigator].\n<b>Obbligo</b> - Quando questo nemico-luogo è aperto: Ogni investigatore in questo luogo e in ogni luogo collegato a questo subisce 1 orrore.",
-        "traits": "Stanza. Mostro. Ilite."
+        "traits": "Stanza. Mostro. Elite."
     },
     {
         "code": "10541",
@@ -399,7 +399,7 @@
         "code": "10541b",
         "name": "Salotto Vivente",
         "text": "Massiccio. Ritorsione. Non può effettuare attacchi di opportunità.\nIl Salotto Vivente riceve +2[per investigator] Salute.\n<b>Obbligo</b> - Quando questo nemico-luogo è aperto: Esso attacca ogni investigatore in questo luogo.",
-        "traits": "Stanza. Mostro. Ilite."
+        "traits": "Stanza. Mostro. Elite."
     },
     {
         "code": "10542",
@@ -412,7 +412,7 @@
         "code": "10542b",
         "name": "Sala da Pranzo Vivente",
         "text": "Massiccio. Non può effettuare attacchi di opportunità.\nLa Sala da Pranzo Vivente riceve +2[per investigator] Salute.\n<b>Obbligo</b> - Quando questo nemico-luogo è aperto: Effettuate una prova di predazione.",
-        "traits": "Stanza. Mostro. Ilite."
+        "traits": "Stanza. Mostro. Elite."
     },
     {
         "code": "10543",
@@ -425,7 +425,7 @@
         "code": "10543b",
         "name": "Atrio Vivente",
         "text": "Massiccio. Non può effettuare attacchi di opportunità.\n<b>Obbligo</b> - Quando questo nemico-luogo è aperto: Esso attacca ogni investigatore in questo luogo.\n<b>Abbandona</b> - Fuggi dalla casa.",
-        "traits": "Stanza. Mostro. Ilite."
+        "traits": "Stanza. Mostro. Elite."
     },
     {
         "code": "10544",
@@ -451,7 +451,7 @@
         "code": "10547",
         "name": "Cantina Amorfa",
         "text": "Massiccio. Ritorsione. Non può effettuare attacchi di opportunità.\nLa Cantina Amorfa non può essere sigillata né girata.\n<b>Obbligo</b> - Dopo che hai fallito una prova di abilità indagando nella Cantina Amorfa: La Cantina Amorfa ti attacca.\n<b>Obbligo</b> - Se non ci sono indizi sulla Cantina Amorfa: Collocatela nella galleria delle vittorie.",
-        "traits": "Stanza. Mostro. Ilite."
+        "traits": "Stanza. Mostro. Elite."
     },
     {
         "code": "10548",
@@ -463,8 +463,8 @@
     {
         "code": "10549",
         "name": "La Brughiera Silente",
-        "text": "<b>Facile/Standard</b>\n[skull]: -X, dove X è la metà del numero di nemici [[Insetto]] in gioco e nella galleria delle vittorie (arrotondando per eccesso).\n[cultist]: -1. Puoi rimescolare nel mazzo degli incontri 1 nemico non [[Ilite]] dalla galleria delle vittorie.\n[tablet]: -3. Se fallisci, scegli 1 nemico [[Insetto]] nel tuo luogo. Esso ti impegna e attacca immediatamente.\n[elder_thing]: -2. Se ti trovi in un luogo [[Covo]], rivela 1 altro segnalino.",
-        "back_text": "<b>Difficile/Esperto</b>\n[skull]: -X, dove X è il numero di nemici [[Insetto]] in gioco e nella galleria delle vittorie.\n[cultist]: -3. Se hai successo, puoi rimescolare nel mazzo degli incontri 1 nemico non [[Ilite]] dalla galleria delle vittorie.\n[tablet]: -5. Ripristina il nemico [[Insetto]] più vicino. Esso si muove e attacca come se fosse la Fase dei Nemici.\n[elder_thing]: -4. Se ti trovi in un luogo [[Covo]], fallisci automaticamente."
+        "text": "<b>Facile/Standard</b>\n[skull]: -X, dove X è la metà del numero di nemici [[Insetto]] in gioco e nella galleria delle vittorie (arrotondando per eccesso).\n[cultist]: -1. Puoi rimescolare nel mazzo degli incontri 1 nemico non [[Elite]] dalla galleria delle vittorie.\n[tablet]: -3. Se fallisci, scegli 1 nemico [[Insetto]] nel tuo luogo. Esso ti impegna e attacca immediatamente.\n[elder_thing]: -2. Se ti trovi in un luogo [[Covo]], rivela 1 altro segnalino.",
+        "back_text": "<b>Difficile/Esperto</b>\n[skull]: -X, dove X è il numero di nemici [[Insetto]] in gioco e nella galleria delle vittorie.\n[cultist]: -3. Se hai successo, puoi rimescolare nel mazzo degli incontri 1 nemico non [[Elite]] dalla galleria delle vittorie.\n[tablet]: -5. Ripristina il nemico [[Insetto]] più vicino. Esso si muove e attacca come se fosse la Fase dei Nemici.\n[elder_thing]: -4. Se ti trovi in un luogo [[Covo]], fallisci automaticamente."
     },
     {
         "code": "10550",
@@ -585,7 +585,7 @@
         "name": "Regina della Nidiata",
         "subname": "Madre Morente",
         "text": "<b>Generazione</b> - ([Codex]Sigma) (<i>pag. 21</i>).\nMassiccio. Allerta.\nI nemici [[Insetto]] nel luogo della Regina della Nidiata perdono Sfuggente.\nLa Regina della Nidiata riceve +1 Scontro per ogni altro nemico [[Insetto]] in gioco e +X[per_investigator] Salute, dove X è il numero del giorno attuale.",
-        "traits": "Creatura. Insetto. Mutato. Ilite."
+        "traits": "Creatura. Insetto. Mutato. Elite."
     },
     {
         "code": "10566",
@@ -733,28 +733,28 @@
         "name": "Ibrido Limulide [day]",
         "subname": "Alla Luce",
         "text": "Elusivo. Massiccio.\nL'Ibrido Limulide riceve +3[per_investigator] Salute e non può effettuare attacchi di opportunità.\n<b>Obbligo</b> - Dopo che l'Ibrido Limulide si è girato su questo lato: Infliggetegli 1[per_investigator] danni.",
-        "traits": "Mostro. Abominio. Ilite."
+        "traits": "Mostro. Abominio. Elite."
     },
     {
         "code": "10583b",
         "name": "Ibrido Limulide [night]",
         "subname": "Al Buio",
         "text": "Cacciatore. Massiccio. Ritorsione.\nL'Ibrido Limulide riceve +3 [per_investigator] Salute.\n<b>Obbligo</b> - Dopo che hai attaccato con successo l'Ibrido Limulide con una carta [[Mischia]]: Subisci 1 danno.",
-        "traits": "Mostro. Abominio. Ilite."
+        "traits": "Mostro. Abominio. Elite."
     },
     {
         "code": "10584a",
         "name": "Ibrido Crostaceo [day]",
         "subname": "Alla Luce",
         "text": "Elusivo. Cacciatore.\nL'Ibrido Crostaceo riceve +X Salute, dove X è il numero del giorno attuale.\n<b>Obbligo</b> - Quando l'Ibrido Crostaceo sta per subire danni da un attacco: Riducete a 1 quei danni.",
-        "traits": "Mostro. Abominio. Ilite."
+        "traits": "Mostro. Abominio. Elite."
     },
     {
         "code": "10584b",
         "name": "Ibrido Crostaceo [night]",
         "subname": "Al Buio",
         "text": "Cacciatore.\nL'Ibrido Crostaceo riceve +X Salute, dove X è il numero del giorno attuale.\n<b>Obbligo</b> - Dopo che l'Ibrido Crostaceo si è girato su questo lato: Esso infligge 1 danno a ogni investigatore nel suo luogo.",
-        "traits": "Mostro. Abominio. Ilite."
+        "traits": "Mostro. Abominio. Elite."
     },
     {
         "code": "10585",
@@ -915,14 +915,14 @@
         "name": "L'Essere dagli Abissi",
         "subname": "Emerso dal Profondo",
         "text": "Elusivo. Cacciatore. Massiccio. Ritorsione.\nL'essere dagli Abissi riceve +5[per_investigator] Salute e non può effettuare attacchi di opportunità.\nMentre L'Essere dagli Abissi si muove, il suo luogo è considerato collegato a ogni luogo [[Sommerso]].\n<b>Obbligo</b> - Dopo che L'Essere dagli Abissi ha attaccato in un luogo [[Pantano]]: Curategli 2 danni.",
-        "traits": "Abominio. Flora. Mutato. Ilite."
+        "traits": "Abominio. Flora. Mutato. Elite."
     },
     {
         "code": "10601",
         "name": "Ibrido Chelidride",
         "subname": "Anomalia Fiorita",
         "text": "Sfuggente. Elusivo. Pattuglia (il luogo vuoto più vicino).\nSe ci sono nemici [[Abominio]] pronti nel suo luogo o se è impegnato con un investigatore, l'Ibride Chelidride non può muoversi.\n<b>Obbiettivo</b> - Se questo nemico è sconfitto. (<b>→R3</b>).",
-        "traits": "Creatura. Flora. Mutato. Ilite."
+        "traits": "Creatura. Flora. Mutato. Elite."
     },
     {
         "code": "10602",
@@ -969,7 +969,7 @@
         "name": "Ibrido Urside",
             "subname": "Abominio Luminescente",
         "text": "<b>Generazione</b> - ([codex] <b>Sigma</b>) (<i>pag. 37</i>).\nCacciatore. Ritorsione.\nL'Ibrido Urside riceve +2[per_investigator] Salute.\n<b>Obbligo</b> - Quando l'Ibrido Urside sta per essere sconfitto, se siete al Capitolo 2: Curategli tutti i danni e collocatelo nell'area di inseguimento invece che nella galleria delle vittorie.",
-            "traits": "Creatura. Mostro. Mutato. Ilite."
+            "traits": "Creatura. Mostro. Mutato. Elite."
     },
     {
         "code": "10608",
@@ -1274,7 +1274,7 @@
         "name": "Ibrido Urside",
         "subname": "Abominio Affamato",
         "text": "Cacciatore. Massiccio. Ritorsione.\n<b>Preda</b> - L'investigatore capo.\nL'Ibrido Urside riceve +3[per_investigator] Salute e ignora le barriere e le esche.\nMentre questo nemico si muove, i luoghi [[Campo]] sono considerati collegati tra loro.",
-        "traits": "Creatura. Mostro. Mutato. Ilite."
+        "traits": "Creatura. Mostro. Mutato. Elite."
     },
     {
         "code": "10644a",
@@ -1299,28 +1299,28 @@
         "name": "Ibrido Lupino",
         "text": "<b>Generazione</b> - Campi Esterni (nord).\nRitorsione. Pattuglia (Casale).\n<>Obbligo</b> - Dopo che l'Ibrido Lupino ha attaccato: Curategli 1 danno.",
         "flavor": "Stranamente non ululavano. Ridevano.\n-<u>Dott.ssa. Rosa Marquez</u>, Ricerca della Miskatonic, 1926",
-        "traits": "Creatura. Mostro. Mutato. Ilite."
+        "traits": "Creatura. Mostro. Mutato. Elite."
     },
     {
         "code": "10645b",
         "name": "Ibrido Lupino",
         "text": "<b>Generazione</b> - Campi Esterni (est).\nRitorsione. Pattuglia (Casale).\n<>Obbligo</b> - Dopo che l'Ibrido Lupino ha attaccato: Curategli 1 danno.",
         "flavor": "Stranamente non ululavano. Ridevano.\n-<u>Dott.ssa. Rosa Marquez</u>, Ricerca della Miskatonic, 1926",
-        "traits": "Creatura. Mostro. Mutato. Ilite."
+        "traits": "Creatura. Mostro. Mutato. Elite."
     },
     {
         "code": "10645c",
         "name": "Ibrido Lupino",
         "text": "<b>Generazione</b> - Campi Esterni (sud).\nRitorsione. Pattuglia (Casale).\n<>Obbligo</b> - Dopo che l'Ibrido Lupino ha attaccato: Curategli 1 danno.",
         "flavor": "Stranamente non ululavano. Ridevano.\n-<u>Dott.ssa. Rosa Marquez</u>, Ricerca della Miskatonic, 1926",
-        "traits": "Creatura. Mostro. Mutato. Ilite."
+        "traits": "Creatura. Mostro. Mutato. Elite."
     },
     {
         "code": "10646",
         "name": "Ibrido Caprino",
         "text": "<b>Generazione</b> - Il luogo Campi Esterni con meno nemici.\nAllerta. Pattuglia (Casale).\nL'Ibrido caprino ignora le esche.",
         "flavor": "Immagino che, proprio come ogni normale capra, divori qualsiasi cosa.\n-<u>Dott.ssa. Rosa Marquez</u>, Ricerca della Miskatonic, 1926",
-        "traits": "Creatura. Mostro. Mutato. Ilite."
+        "traits": "Creatura. Mostro. Mutato. Elite."
     },
     {
         "code": "10647a",
@@ -1465,56 +1465,56 @@
         "name": "Emissario Cosmico",
         "subname": "L'Abisso",
         "text": "Massiccio.\nNon può effettuare attacchi di opportunità.\n<b>Obbligo</b> - Quando hai successo combattendo o eludendo questo nemico: Invece di danneggiarlo o esaurirlo, questo nemico non attacca durante la Fase dei Nemici in questo round.",
-        "traits": "Emissario. Colore. Ilite."
+        "traits": "Emissario. Colore. Elite."
     },
     {
         "code": "10662b",
         "name": "Emissario Cosmico",
         "subname": "L'Abisso",
         "text": "Massiccio.\nL'Emissario Cosmico riceve +2[per_investigator] Salute.\n<b>Obbligo</b> - Quando questo nemico è sconfitto: Ogni investigatore effettua una prova di [willpower](100). Ogni investigatore che fallisce viene divorato (è <b>ucciso</b>).",
-        "traits": "Emissario. Infranto. Ilite."
+        "traits": "Emissario. Infranto. Elite."
     },
     {
         "code": "10663a",
         "name": "Emissario Cosmico",
         "subname": "Il Fantasma",
         "text": "Massiccio. Ritorsione.\nNon può effettuare attacchi di opportunità.\n<b>Obbligo</b> - Quando hai successo combattendo o eludendo questo nemico: Invece di danneggiarlo o esaurirlo, questo nemico non attacca durante la Fase dei Nemici in questo round.",
-        "traits": "Emissario. Colore. Ilite."
+        "traits": "Emissario. Colore. Elite."
     },
     {
         "code": "10663b",
         "name": "Emissario Cosmico",
         "subname": "Il Fantasma",
         "text": "Sfuggente. Cacciatore. Ritorsione.\n<b>Preda</b> - L'investigatore con più [combat].\n<b>Obbligo</b> - Dopo che hai rivelato un segnalino [elder_thing] durante una prova di abilità in questo luogo: Puoi scegliere se questa prova fallisce automaticamente oppure questo nemico ti attacca.",
-        "traits": "Emissario. Infranto. Ilite."
+        "traits": "Emissario. Infranto. Elite."
     },
     {
         "code": "10664a",
         "name": "Emissario Cosmico",
         "subname": "Il miasma",
         "text": "Massiccio. Allerta.\nNon può effettuare attacchi di opportunità.\n<b>Obbligo</b> - Quando hai successo combattendo o eludendo questo nemico: Invece di danneggiarlo o esaurirlo, questo nemico non attacca durante la Fase dei Nemici in questo round.",
-        "traits": "Emissario. Colore. Ilite."
+        "traits": "Emissario. Colore. Elite."
     },
     {
         "code": "10664b",
         "name": "Emissario Cosmico",
         "subname": "Il miasma",
         "text": "Sfuggente. Cacciatore. Allerta.\n<b>Preda</b> - L'investigatore con più [agility].\n<b>Obbligo</b> - Dopo che hai rivelato un segnalino [cultist] durante una prova di abilità in questo luogo: Puoi scegliere se questa prova fallisce automaticamente oppure questo nemico ti attacca.",
-        "traits": "Emissario. Infranto. Ilite."
+        "traits": "Emissario. Infranto. Elite."
     },
     {
         "code": "10665a",
         "name": "Emissario Cosmico",
         "subname": "Il Bagliore",
         "text": "Massiccio.\nNon può effettuare attacchi di opportunità.\n<b>Obbligo</b> - Quando hai successo combattendo o eludendo questo nemico: Invece di danneggiarlo o esaurirlo, questo nemico non attacca durante la Fase dei Nemici in questo round.",
-        "traits": "Emissario. Colore. Ilite."
+        "traits": "Emissario. Colore. Elite."
     },
     {
         "code": "10665b",
         "name": "Emissario Cosmico",
         "subname": "Il Bagliore",
         "text": "Sfuggente. Elusivo. Cacciatore.\n<b>Preda</b> - L'investigatore con più [willpower].\n<b>Obbligo</b> - Dopo che hai rivelato un segnalino [tablet] durante una prova di abilità in questo luogo: Puoi scegliere se questa prova fallisce automaticamente oppure questo nemico ti attacca.",
-        "traits": "Emissario. Infranto. Ilite."
+        "traits": "Emissario. Infranto. Elite."
     },
     {
         "code": "10666",
@@ -1752,7 +1752,7 @@
         "code": "10693b",
         "name": "Madre Rachel",
         "text": "Sfuggente. Ritorsione.\nMadre Rachel riceve +2[per_investigator] Salute.\n<b>Obbligo</b> - Dopo che hai inflitto 1 o più danni a Madre Rachel: Scegli un nemico [[Abitante]] diverso nel suo luogo. Quel nemico ti attacca.\n<b>Vittoria 1.</b>",
-        "traits": "Umanoide. Abitante. Ilite."
+        "traits": "Umanoide. Abitante. Elite."
     },
     {
         "code": "10694",
@@ -1766,7 +1766,7 @@
         "name": "Leah Atwood",
         "text": "Ritorsione.\n[Action]: <b>Negozia</b>. Effettua una prova di [combat](5). Se hai successo, metti Leah Atwood da parte, temporaneamente fuori dal gioco.\n<b>Vittoria 0.</b>",
         "flavor": "\"Andatevene! Nessuno vi vuole qui.\"",
-        "traits": "Umanoide. Abitante. Ilite."
+        "traits": "Umanoide. Abitante. Elite."
     },
     {
         "code": "10695",
@@ -1780,7 +1780,7 @@
         "name": "Simeon Atwood",
         "text": "Elusivo. Cacciatore.\n[Action]: <b>Negozia</b>. Effettua una prova di [agility](5). Se hai successo, metti Simeon Atwood da parte, temporaneamente fuori dal gioco.\n<b>Vittoria 0.</b>",
         "flavor": "\"Volete vedere un trucchetto di magia? Posso far sparire l'erba. Tutta quanta.\"",
-        "traits": "Umanoide. Abitante. Ilite."
+        "traits": "Umanoide. Abitante. Elite."
     },
     {
         "code": "10696",
@@ -1794,7 +1794,7 @@
         "name": "William Hemlock",
         "text": "Elusivo.\n[action]: <b>Negozia</b>. Effettua una prova di [intellect](5). Se hai successo, metti William Hemlock da parte, temporaneamente fuori dal gioco.\n<b>Vittoria 0.</b>",
         "flavor": "\"Farò ciò che devo per proteggere l'eredità della mia famiglia.\"",
-        "traits": "Umanoide. Abitante. Ilite."
+        "traits": "Umanoide. Abitante. Elite."
     },
     {
         "code": "10697",
@@ -1807,7 +1807,7 @@
         "code": "10697b",
         "name": "River Hawthorne",
         "text": "Sfuggente. Cacciatore.\nLa prima sventura pescata nel luogo di River Hawthorne in ogni round ottiene Impulso.\n[action]: <b>Negozia</b>. Effettua una prova di [willpower](5). Se hai successo, metti River Hawthorne da parte, temporaneamente fuori dal gioco.\n<b>Vittoria 0.</b>",
-        "traits": "Umanoide. Abitante. Ilite."
+        "traits": "Umanoide. Abitante. Elite."
     },
     {
         "code": "10698",
@@ -1821,7 +1821,7 @@
         "code": "10698b",
         "name": "Gideon Mizrah",
         "text": "Ritorsione.\n<b>Obbligo</b> - Dopo che Gideon Mizrah ti ha attaccato: Scarta 1 carta casuale dalla tua mano.\n[action][action][action]: <b>Negozia</b>. Metti Gideon Mizrah da parte, temporaneamente fuori dal gioco.\n<b>Vittoria 0.</b>",
-        "traits": "Umanoide. Abitante. Ilite."
+        "traits": "Umanoide. Abitante. Elite."
     },
     {
         "code": "10699",
@@ -1835,7 +1835,7 @@
         "name": "Judith Park",
         "text": "Cacciatore. Ritorsione.\n[action] Spendi 5 risorse: <b>Negozia</b>. Metti Judith Park da parte, temporaneamente fuori dal gioco.\n<b>Vittoria 0.</b>",
         "flavor": "\"Non constringermi a farlo.\"",
-        "traits": "Umanoide. Abitante. Ilite."
+        "traits": "Umanoide. Abitante. Elite."
     },
     {
         "code": "10700",
@@ -1849,7 +1849,7 @@
         "name": "Theo Peters",
         "text": "Elusivo. Allerta.\n[action] Scarta 3 carte casuali dalla tua mano: <b>Negozia</b>. Metti Theo Peters da parte, temporaneamente fuori dal gioco.\n<b>Vittoria 0.</b>",
         "flavor": "\"Qui siamo tutti una famiglia. Tranne Voi!\"",
-        "traits": "Umanoide. Abitante. Ilite."
+        "traits": "Umanoide. Abitante. Elite."
     },
     {
         "code": "10701",
@@ -1876,7 +1876,7 @@
         "code": "10703",
         "name": "Helen Peters",
         "subname": "La Sorella Maggiore",
-        "text": "(<b>Giorno</b>[day]) Ricevi +1 [combat]. (<b>Notte</b>[night]) Ricevi +1 [agility].\n[reaction] Dopo che sei entrato in un luogo, esaurisci Helen Peters e infliggile 1 danno: Scegli un nemico non [[Ilite]] nel tuo luogo ed eludilo automaticamente.",                                        
+        "text": "(<b>Giorno</b>[day]) Ricevi +1 [combat]. (<b>Notte</b>[night]) Ricevi +1 [agility].\n[reaction] Dopo che sei entrato in un luogo, esaurisci Helen Peters e infliggile 1 danno: Scegli un nemico non [[Elite]] nel tuo luogo ed eludilo automaticamente.",                                        
         "flavor": "\"Il cambiamento è inevitabile. Il problema è come affrontarlo.\"",
         "traits": "Alleato. Cacciatore."
     },
